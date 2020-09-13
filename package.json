@@ -1,0 +1,29 @@
+{
+    "name": "black-pearlpule",
+    "displayName": "Black PearlPule",
+    "description": "Dark theme",
+    "version": "0.0.1",
+    "publisher": "sujanchhetri",
+    "author": {
+        "name": "Sujan Chhetri"
+    },
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "icon": "images/icon/logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Black PearlPule",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Black Pearl-color-theme.json"
+        }]
+    },
+    "keywords": ["dark", "black", "theme"],
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
