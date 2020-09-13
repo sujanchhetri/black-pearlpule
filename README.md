@@ -1,11 +1,11 @@
 # Black PearlPule
 A dark theme for VS code 
 
-[![Black PearlPule Theme Demo](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/theme-demo.gif)](https://blogue.tech)
+[![Black PearlPule Theme Demo](https://github.com/sujanchhetri/black-pearlpule/blob/master/images/clip/clip.gif?raw=true)](https://blogue.tech)
 
 # Black PearlPule for VS Code
 
-Thanks for checking out my VS Code theme. There are 2 options to choose from:
+Thanks for checking out my VS Code theme. 
 
 ## Font
 
